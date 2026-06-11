@@ -1,0 +1,2 @@
+50283	Canavar kartý	Bu nesneyi kullandýðýnda koleksiyonuna eklenir.
+50284	Canavar kart (ticr. var)	Bu nesneyi kullandýðýnda koleksiyonuna eklenir.

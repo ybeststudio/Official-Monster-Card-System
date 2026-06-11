@@ -1,0 +1,76 @@
+MC_ACCUMULATION_COUNT	Toplanan Canavar Kartlarý: %d
+MC_ACHIEV_NAME	%s (%d)
+MC_ACHIEV_REGIST_ABLE	Baþarýnýn koþullarýný yerine getiriyorsun %s (%d yýldýz).
+MC_ACHIEV_REGIST_FAIL	Þu anda bir baþarý talep edemezsin.
+MC_ACHIEV_REGIST_FAIL_CHECK_COUNT	Bir baþarý talep edemezsin. Pencereyi kapat ve tekrar dene!
+MC_ACHIEV_REGIST_QUESTION_1	%s baþarýsýný talep etmek istiyor musun? Bunun için söz konusu canavarlarýn %d kartýna ihtiyacýn var.
+MC_ACHIEV_REGIST_QUESTION_2	Seçimin geri alýnamaz. Devam etmek istiyor musun?
+MC_ACHIEV_SHOW_APPLYS	Durumu göster
+MC_ACHIEV_SHOW_MONSTER	Resmi göster
+MC_ALTER_TEXT	Görev seviyesi %d
+MC_CARD_FALL_SHORT	Kaydedilen kartlar yetersiz.
+MC_CARD_SHUFFLE	Kartlarý yeniden düzenlemek mi istiyorsun?
+MC_INIT_ITEM_FALL_SHORT	%d adet yeni baþlangýç kartýna ihtiyacýn var.
+MC_MISSION_FAIL_MSG	Etkin görevin yok, ya da sýnýr aþýlmýþ.
+MC_MISSION_INIT	Görevi 1. seviyeye geri almak ister misin?
+MC_MISSION_NO_CLEAR	Önce görevi tamamlaman gerekiyor.
+MC_MOTION_BUTTON_OVER_MSG	Bu seçenek 2. yýldýzdan itibaren mevcut.
+MC_POLY_BUTTON_OVER_MSG	Bu seçenek 3. yýldýzdan itibaren mevcut.
+MC_POLY_FAIL	Þu an kendini dönüþtüremezsin.
+MC_POLY_QUESTION	Kendini bir canavara dönüþtürmek mi istiyorsun?
+MC_PROMOTION_MAX	Artýk bir geliþtirme yapýlamaz.
+MC_PROMOTION_QUESTION	Seviyeyi yükseltmek mi istiyorsun?
+MC_QUESTION_BUTTON_DESC1	Geri alma 24 saat içinde sadece 6 kez yapýlabilir.
+MC_QUESTION_BUTTON_DESC2	Bu sýnýrý aþan her geri alma iþlemi için daha fazla yeni baþlangýç kartý gerekir.
+MC_QUESTION_BUTTON_DESC3	Kalan soðuma süresini görüntülemek için buraya týkla.
+MC_REWARD_FAIL	Envanterinde yer yok.
+MC_REWARD_MISSION	Canavar kartýný þimdi almak ister misin?
+MC_SHUFFLE_NO_ITEM	Yeni düzen kartýn yok.
+MC_TIME	Soðuma süresi: %s
+MC_TRADE_QUESTION	%d kartýn eksilir. Devam et?
+MC_USE_ITEM_FAIL	Bu kart eklenemez.
+MC_USE_ITEM_QUESTION	Bu canavar kartýný eklemek ister misin?
+MC_WARP_BUTTON_OVER_MSG	Bu seçenek 4. yýldýzdan itibaren mevcut.
+MC_WARP_FAIL	Artýk ýþýnlanamazsýn.
+MC_WARP_LIMIT_LEVEL	Þu anki seviyen ýþýnlanmaya yetmiyor.
+MC_WARP_QUESTION	Bu canavarýn bölgesine ýþýnlanmak ister misin?
+
+MC_ACCUMULATION_COUNT	Toplanan Canavar Kartlarý: %d
+MC_ACHIEV_NAME	%s (%d)
+MC_ACHIEV_REGIST_ABLE	Baþarýnýn koþullarýný yerine getiriyorsun %s (%d yýldýz).
+MC_ACHIEV_REGIST_FAIL	Þu anda bir baþarý talep edemezsin.
+MC_ACHIEV_REGIST_FAIL_CHECK_COUNT	Bir baþarý talep edemezsin. Pencereyi kapat ve tekrar dene!
+MC_ACHIEV_REGIST_QUESTION_1	%s baþarýsýný talep etmek istiyor musun? Bunun için söz konusu canavarlarýn %d kartýna ihtiyacýn var.
+MC_ACHIEV_REGIST_QUESTION_2	Seçimin geri alýnamaz. Devam etmek istiyor musun?
+MC_ACHIEV_SHOW_APPLYS	Durumu göster
+MC_ACHIEV_SHOW_MONSTER	Resmi göster
+MC_ALTER_TEXT	Görev seviyesi %d
+MC_CARD_FALL_SHORT	Kaydedilen kartlar yetersiz.
+MC_CARD_SHUFFLE	Kartlarý yeniden düzenlemek mi istiyorsun?
+MC_INIT_ITEM_FALL_SHORT	%d adet yeni baþlangýç kartýna ihtiyacýn var.
+MC_MISSION_FAIL_MSG	Etkin görevin yok, ya da sýnýr aþýlmýþ.
+MC_MISSION_INIT	Görevi 1. seviyeye geri almak ister misin?
+MC_MISSION_NO_CLEAR	Önce görevi tamamlaman gerekiyor.
+MC_MOTION_BUTTON_OVER_MSG	Bu seçenek 2. yýldýzdan itibaren mevcut.
+MC_POLY_BUTTON_OVER_MSG	Bu seçenek 3. yýldýzdan itibaren mevcut.
+MC_POLY_FAIL	Þu an kendini dönüþtüremezsin.
+MC_POLY_QUESTION	Kendini bir canavara dönüþtürmek mi istiyorsun?
+MC_PROMOTION_MAX	Artýk bir geliþtirme yapýlamaz.
+MC_PROMOTION_QUESTION	Seviyeyi yükseltmek mi istiyorsun?
+MC_QUESTION_BUTTON_DESC1	Geri alma 24 saat içinde sadece 6 kez yapýlabilir.
+MC_QUESTION_BUTTON_DESC2	Bu sýnýrý aþan her geri alma iþlemi için daha fazla yeni baþlangýç kartý gerekir.
+MC_QUESTION_BUTTON_DESC3	Kalan soðuma süresini görüntülemek için buraya týkla.
+MC_REWARD_FAIL	Envanterinde yer yok.
+MC_REWARD_MISSION	Canavar kartýný þimdi almak ister misin?
+MC_SHUFFLE_NO_ITEM	Yeni düzen kartýn yok.
+MC_TIME	Soðuma süresi: %s
+MC_TRADE_QUESTION	%d kartýn eksilir. Devam et?
+MC_USE_ITEM_FAIL	Bu kart eklenemez.
+MC_USE_ITEM_QUESTION	Bu canavar kartýný eklemek ister misin?
+MC_WARP_BUTTON_OVER_MSG	Bu seçenek 4. yýldýzdan itibaren mevcut.
+MC_WARP_FAIL	Artýk ýþýnlanamazsýn.
+MC_WARP_LIMIT_LEVEL	Þu anki seviyen ýþýnlanmaya yetmiyor.
+MC_WARP_QUESTION	Bu canavarýn bölgesine ýþýnlanmak ister misin?
+MD_POPUP_MSG_1	Sadece Zodyak Tapýnaðý'ndan girebilirsin.
+MD_POPUP_MSG_2	Zodyak bekçileri güçlerini yenilemeli.\nOnlara biraz zaman taný.
+MD_SYSTEM_MSG_1	Zombi deðilsin. Ölü iken savaþamazsýn.
