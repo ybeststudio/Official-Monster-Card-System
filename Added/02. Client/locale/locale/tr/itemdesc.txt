@@ -1,0 +1,3 @@
+70617	Hazine bileti	Bu biletle Hazine Adası'na seyahat edebilirsin.
+70618	Goblin anahtarı	Bu anahtarla hazine avında daha fazla ödül kazanabilirsin.
+70619	Goblin anahtar kutusu	Hazine avı için 8 Goblin anahtarı içerir.
